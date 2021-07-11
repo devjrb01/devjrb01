@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devjrb01 a web developer..
 - 👀 I’m interested in ...programming,coding..
-- 🌱 I’m currently learning ... backend developement..
+- 🌱 I’m currently learning ... front end frameworks..
 - 💞️ I’m looking to collaborate on ... frontend development related works..
 - 📫 How to reach me ... myEmail-- jrbdeveloper01@gmail.com
 
